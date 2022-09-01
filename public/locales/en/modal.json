@@ -1,0 +1,11 @@
+{
+  "deleteAccount": {
+    "title": "Are you sure you want to delete your account?",
+    "text": "This operation cannot be undone.",
+    "openModalButton": "delete account"
+  },
+  "deletePatient": {
+    "title": "Are you sure you want to delete a patient?",
+    "text": "This operation cannot be undone."
+  }
+}

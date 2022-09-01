@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "imię",
+    "surname": "nazwisko",
+    "email": "email",
+    "password": "hasło",
+    "minCharError": "minimum:",
+    "maxCharError": "maksymalnie:",
+    "confirmPassword": "potwierdź hasło",
+    "requiredFieldError": "to pole jest wymagane",
+    "passwordMinError": "minimum 8 znaków",
+    "passwordMatchError": "hasła muszą być zgodne",
+    "emailError": "nieprawidłowy email",
+    "submitButton": "zatwierdź",
+    "termsAndConditionsError": "Musisz zaakceptować regulamin",
+    "iAgreeOn": "Zgadzam się na",
+    "terms": "Warunki",
+    "conditions": "i Zasady",
+    "phoneNumber": "telefon",
+    "phoneNumberError": "nieprawidłowy numer telefonu",
+    "state": "stan",
+    "city": "miasto",
+    "avenue": "aleja"
+  },
+  "fileInput": {
+    "addFiles": "dodaj pliki",
+    "sendFiles": "prześlij pliki",
+    "maxFilesError": "wymagane:"
+  },
+  "notFoundPage": {
+    "text": "To nie jest strona, której szukasz.",
+    "returnButton": "powrót na stronę główną"
+  }
+}

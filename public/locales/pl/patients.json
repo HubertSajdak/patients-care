@@ -1,0 +1,27 @@
+{
+  "addPatient": "dodaj pacjenta",
+  "allPatients": "wszyscy pacjenci",
+  "patientInfo": "informacje pacjenta",
+  "editPatient": "edycja pacjenta",
+  "editPatientError": "Wystąpił błąd podczas pobierania danych.",
+  "table": {
+    "tableName": "pacjenci",
+    "rowsPerPage": "wierszy na stronę",
+    "searchInput": "wyszukaj...",
+    "selected": "wybrano",
+    "openFilters": "otwórz filtry",
+    "closeFilters": "zamknij filtry",
+    "delete": "usuń",
+    "prevPageButton": "poprzednia strona",
+    "nextPageButton": "następna strona"
+  },
+  "tableHeadings": {
+    "name": "imię",
+    "surname": "nazwisko",
+    "phoneNumber": "telefon",
+    "state": "stan",
+    "city": "miasto",
+    "avenue": "aleja",
+    "actions": "akcje"
+  }
+}

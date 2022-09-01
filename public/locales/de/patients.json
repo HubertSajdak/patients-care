@@ -1,0 +1,27 @@
+{
+  "addPatient": "patient hinzufügen",
+  "allPatients": "alle patienten",
+  "patientInfo": "patienteninformationen",
+  "editPatient":"patient bearbeiten",
+  "editPatientError":"Beim Abrufen der Daten ist ein Fehler aufgetreten.",
+  "table": {
+    "tableName": "patienten",
+    "rowsPerPage": "zeilen pro seite",
+    "searchInput": "suche...",
+    "selected": "ausgewählt",
+    "openFilters": "offene filter",
+    "closeFilters": "filter schließen",
+    "delete": "löschen",
+    "prevPageButton":"vorherige seite",
+    "nextPageButton":"nächste seite"
+  },
+  "tableHeadings": {
+    "name": "name",
+    "surname": "nachname",
+    "phoneNumber": "rufnummer",
+    "state": "staat",
+    "city": "stadt",
+    "avenue": "allee",
+    "actions": "aktionen"
+  }
+}

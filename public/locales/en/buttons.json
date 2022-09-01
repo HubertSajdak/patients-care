@@ -1,0 +1,9 @@
+{
+  "submit": "submit",
+  "remove": "delete",
+  "cancel": "cancel",
+  "clear": "clear",
+  "refresh": "refresh",
+  "add": "add",
+  "return": "return"
+}

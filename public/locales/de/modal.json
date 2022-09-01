@@ -1,0 +1,11 @@
+{
+  "deleteAccount": {
+    "title": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?",
+    "text": "Dieser Vorgang kann nicht rückgängig gemacht werden.",
+    "openModalButton": "account löschen"
+  },
+  "deletePatient": {
+    "title": "Sind Sie sicher, dass Sie einen Patienten löschen wollen?",
+    "text": "Dieser Vorgang kann nicht rückgängig gemacht werden."
+  }
+}

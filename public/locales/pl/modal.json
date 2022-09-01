@@ -1,0 +1,11 @@
+{
+  "deleteAccount": {
+    "title": "Czy na pewno chcesz usunąć konto?",
+    "text": "Tej operacji nie można cofnąć.",
+    "openModalButton": "usuń konto"
+  },
+  "deletePatient":{
+    "title":"Czy na pewno chcesz usunąć pacjenta?",
+    "text":"Tej operacji nie można cofnąć."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "name",
+    "surname": "nachname",
+    "email": "email",
+    "password": "passwort",
+    "minCharError": "minimum:",
+    "maxCharError": "maximum:",
+    "confirmPassword": "passwort bestätigen",
+    "requiredFieldError": "dieses feld is obligatorish",
+    "passwordMinError": "mindestens 8 zeichen",
+    "passwordMatchError": "passwörter müssen übereinstimmen",
+    "emailError": "ungültige email",
+    "submitButton": "einreichen",
+    "termsAndConditionsError": "du musst die geschäftsbedingungen akzeptieren",
+    "iAgreeOn": "Ich stimme den",
+    "terms": "Bedingungen",
+    "conditions": "und Konditionen",
+    "phoneNumber": "telefonnummer",
+    "phoneNumberError": "ungültige rufnummer",
+    "state": "staat",
+    "city": "stadt",
+    "avenue": "allee"
+  },
+  "fileInput": {
+    "addFiles": "dateien hinzufügen",
+    "sendFiles": "upload von dateien",
+    "maxFilesError": "erforderlich:"
+  },
+  "notFoundPage": {
+    "text": "Dies ist nicht die Webseite, die Sie suchen.",
+    "returnButton": "zurück zur homepage"
+  }
+}

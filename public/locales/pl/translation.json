@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "settings": {
+      "openSettings": "otwórz ustawienia",
+      "logout": "wyloguj",
+      "profile": "profil"
+    }
+  },
+  "langSwitcher": {
+    "changeLang": "język"
+  },
+  "sidebar": {
+    "start": "start",
+    "dashboard": "dashboard",
+    "stats": "statystyki",
+    "patients": "pacjenci",
+    "allPatients": "wszyscy pacjenci",
+    "addPatient": "dodaj pacjenta",
+    "editPatient": "edycja pacjenta",
+    "clinics": "kliniki",
+    "profile": "profil",
+    "appointment": "wizyta",
+    "makeAppointment": "umów wizytę",
+    "settings": "ustawienia",
+    "options": "opcje",
+    "accountManagement": "zarządzaj kontem"
+  },
+  "welcomePage": {
+    "welcome": "witaj"
+  },
+  "accountManagementPage": {
+    "heading": "profil użytkownika",
+    "userInfo": "informacje użytkownika",
+    "changePass": "zmień hasło",
+    "changeAvatar": "zmień avatar",
+    "uploadAvatarHelperText": "prześlij avatar"
+  }
+}

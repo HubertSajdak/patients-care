@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "name",
+    "surname": "surname",
+    "email": "email",
+    "password": "password",
+    "minCharError": "minimum:",
+    "maxCharError": "maximum:",
+    "confirmPassword": "confirm password",
+    "requiredFieldError": "this field is required",
+    "passwordMinError": "minimum 8 characters",
+    "passwordMatchError": "passwords must match",
+    "emailError": "invalid email",
+    "submitButton": "submit",
+    "termsAndConditionsError": "you must accept terms & conditions",
+    "iAgreeOn": "I agree on",
+    "terms": "Terms",
+    "conditions": "& Conditions",
+    "phoneNumber": "phone number",
+    "phoneNumberError": "invalid phone number",
+    "state": "state",
+    "city": "city",
+    "avenue": "avenue"
+  },
+  "fileInput": {
+    "addFiles": "add files",
+    "sendFiles": "upload files",
+    "maxFilesError": "required:"
+  },
+  "notFoundPage": {
+    "text": "This is not the web page you are looking for.",
+    "returnButton": "return to homepage"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "addPatient": "add patient",
+  "allPatients": "all patients",
+  "patientInfo": "patient information",
+  "editPatient": "edit patient",
+  "editPatientError": "An error occured while fetching the data.",
+  "table": {
+    "tableName": "patients",
+    "rowsPerPage": "rows per page",
+    "searchInput": "search...",
+    "selected": "selected",
+    "openFilters": "open filters",
+    "closeFilters": "close filters",
+    "delete": "delete",
+    "prevPageButton": "previous page",
+    "nextPageButton": "next page"
+  },
+  "tableHeadings": {
+    "name": "name",
+    "surname": "surname",
+    "phoneNumber": "phone number",
+    "state": "state",
+    "city": "city",
+    "avenue": "avenue",
+    "actions": "actions"
+  }
+}
