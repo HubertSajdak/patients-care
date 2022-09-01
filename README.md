@@ -25,7 +25,7 @@ Application state is handled by Redux-Toolkit.
 ## Demo
 LIVE: [Prod-Build-Live](https://patients-care-hubert-sajdak.netlify.app)
 
-To login to the dashboard use these credentials:
+To login to the dashboard use these credentials or simply create a new account:
 - Login: test0@test.com
 - Password: Password@2
 
